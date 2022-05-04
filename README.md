@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Scruggs-I
+- 👀 I’m interested in learning to code!
+- 🌱 I’m currently learning fullstack developement through The Odin Project
+- 📫 How to reach me 
+  - Email - isaac04105@gmail.com
